@@ -1,3 +1,6 @@
+.container {
+  width: 960px; }
+
 .main-menu-bar {
   position: relative;
   top: 0; }
@@ -11,3 +14,6 @@
   .drop-menu .form-group {
     margin-bottom: 0px;
     width: 200px; }
+
+.navbar-white {
+  background-color: rgba(255, 255, 255, 0.9); }
